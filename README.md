@@ -15,6 +15,7 @@ THis is a simple web project, you cand deploy it all the time. NO MORE CHANGIES 
 ## How to contribute
 ALL THE CHANGOEISES????
 TAKE AWAY ALL THE CHANGES!
+NO WE MUST  MAKE EVERY CHAGNE!
 
 Please fork this repository and then issue pull request for review.
 
