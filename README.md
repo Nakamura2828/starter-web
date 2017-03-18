@@ -21,3 +21,4 @@ Please fork this repository and then issue pull request for review.
 
 ### Copyright
 Git. adkjfapoisdfhcsopi;hgwe[oi therw[09-ghdfoiustj43rew-98to4i5gu6ej6reh598-epo4i;e5ugj-0gt9[powu[09srj]]]
+ALL RIGHTS RESERVED (THIS IS AN EMERGENCY FIX!@@@@!!!!)
