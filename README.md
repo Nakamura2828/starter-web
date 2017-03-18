@@ -15,5 +15,7 @@ THis is a simple web project, you cand deploy it all the time. NO MORE CHANGIES 
 ## How to contribute
 ALL THE CHANGOEISES????
 
+Please fork this repository and then issue pull request for review.
+
 ### Copyright
 Git. adkjfapoisdfhcsopi;hgwe[oi therw[09-ghdfoiustj43rew-98to4i5gu6ej6reh598-epo4i;e5ugj-0gt9[powu[09srj]]]
