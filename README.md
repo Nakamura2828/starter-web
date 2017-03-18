@@ -13,3 +13,4 @@ Sample website with plenty of files for demos. more junk to the verrysthing
 THis is a simple web project, you cand deploy it all the time
 
 ## How to contribute
+ALL THE CHANGOEISES????
