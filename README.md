@@ -10,7 +10,7 @@ Sample website with plenty of files for demos. more junk to the verrysthing
 
 ## Deployment
 
-THis is a simple web project, you cand deploy it all the time
+THis is a simple web project, you cand deploy it all the time. NO MORE CHANGIES IT IS TOO MUCH!
 
 ## How to contribute
 ALL THE CHANGOEISES????
