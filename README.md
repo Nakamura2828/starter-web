@@ -1,5 +1,6 @@
-# Starter Web Repo
+ls# Starter Web Repo
 This repository is for showing how Git and GitHub work together.
+Also it's a place for emergency fixes.
 
 ## Introduction
 
